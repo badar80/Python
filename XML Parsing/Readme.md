@@ -6,7 +6,7 @@ Python projects
 
 ## What the project does
 
-This code uses the ElementTree library in Python to parse an XML, strip out certain information from it and store this information in a dictionary
+This code uses the ElementTree library in Python to parse an XML, strips out the names and ages from it and store this information in a dictionary
 
 ## Why the project is useful
 
