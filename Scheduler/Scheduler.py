@@ -11,7 +11,7 @@ import random
 import subprocess
 # Define a list of .py files you want to execute randomly
 py_files = ['script1.py', 'script2.py', 'script3.py']
-C:\Users\badar\AppData\Roaming\JetBrains\PyCharmCE2021.3\scratches\Scheduler.py
+
 # Define the range of hours during which the scripts can be executed
 start_hour = 8  # 8 AM
 end_hour = 20  # 8 PM
