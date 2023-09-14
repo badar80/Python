@@ -14,4 +14,4 @@ It can efficiently extract data from the hard-to-read XML files, the data can la
 
 ## How users can get started with the project
 
-Ensure that the ElementTree module is installed and the XML file that you want parsing is stored in the relevant directory and that this directory is given in the code
+Ensure that the ElementTree module is installed and the XML file that you want parsing is stored in the relevant directory and that this directory is given in the code. The 'data.xml' file is given as a test input file. 
