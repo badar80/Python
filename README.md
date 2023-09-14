@@ -14,4 +14,4 @@ Forex trading is a complex and dynamic market, and developing profitable trading
 
 ## How users can get started with the project
 
-**Import Historical Forex Data**: Obtain historical forex data in CSV format or use the sample data provided in the repository. Place the data in the relevant directory. This Historical data can either be found online, or downloaded from a variety of FX broker platforms by downloading the platform and navigating to the files section and export data options. 
+**Import Historical Forex Data**: Obtain historical forex data in CSV format or use the sample data provided in the repository. Place the data in the relevant directory. Different time periods for this Historical data can either be found online, or downloaded from a variety of FX broker platforms by downloading the platform and navigating to the files section and export data options.
