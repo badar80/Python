@@ -1,7 +1,3 @@
-# Python
-Python projects
-
-
 # Python scheduler
 
 ## What the project does
