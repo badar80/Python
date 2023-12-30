@@ -6,5 +6,6 @@ This code allows one to instantly build an interactive dashboard using a few lin
 # How users can get started with the project
 	1. Clone the Repository: Start by cloning this GitHub repository to your local machine. 
 	2. Install Dependencies: Ensure you have Python 3.x installed. Install the required Python packages using pip: 
+ 
 pip install dash 
 pip install pandas as pd
