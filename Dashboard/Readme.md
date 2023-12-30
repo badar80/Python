@@ -8,4 +8,5 @@ This code allows one to instantly build an interactive dashboard using a few lin
 	2. Install Dependencies: Ensure you have Python 3.x installed. Install the required Python packages using pip: 
  
 pip install dash 
+
 pip install pandas as pd
