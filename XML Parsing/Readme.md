@@ -1,7 +1,3 @@
-# Python
-Python projects
-
-
 # XML Parser
 
 ## What the project does
