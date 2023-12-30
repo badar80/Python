@@ -1,7 +1,3 @@
-# Python
-Python projects
-
-
 # Forex Trading Strategy Backtester
 
 ## What the project does
