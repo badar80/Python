@@ -1,7 +1,3 @@
-# Python
-Python projects
-
-
 # Python PDF Extractor
 
 ## What the project does
